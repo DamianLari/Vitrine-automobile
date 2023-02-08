@@ -1,0 +1,15 @@
+.caroussel-inner{
+    display: block;
+    
+    margin-left: 100px;
+    text-align: center;
+    
+}
+
+body{
+    background-color: rgba(224, 225, 225, 0.143);
+}
+
+html{
+    scroll-behavior: smooth;
+}
